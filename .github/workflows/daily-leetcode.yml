@@ -1,0 +1,36 @@
+name: 🧠 Auto Update LeetCode Daily Challenge
+
+on:
+  schedule:
+    - cron: "30 2 * * *" # Runs at 8:00 AM IST every day
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Fetch and Update README
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch LeetCode Daily Challenge and Update README
+        run: python .github/scripts/update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "leetcode-bot"
+          git config --global user.email "leetcode-bot@example.com"
+          git add README.md
+          git commit -m "🧠 update daily challenge"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
