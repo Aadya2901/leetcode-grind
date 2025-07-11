@@ -57,7 +57,7 @@ leetcode-grind/
 | July 8     | Two Sum                             | ✅ Solved   | [1](https://leetcode.com/problems/two-sum/) |
 | July 7     | Longest Substring Without Repeat    | ✅ Solved   | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 
-> ✍️ Add a new row daily to stay accountable!
+
 
 ---
 
@@ -92,10 +92,14 @@ Navigate to a solution file and run it via main() or JUnit
 Hi! I’m Aadya Patel, a 4th semester CSE student passionate about problem solving, clean code, and building cool things on the web.
 This repo helps me stay consistent and prepare for top tech opportunities.
 
-Let’s Connect
+This repo helps me stay consistent and prepare for top tech opportunities.
+Let’s connect:
+
 🌐 GitHub
-🔗 LinkedIn
+
 💻 LeetCode
+
+🔗 LinkedIn
 
 ⭐ If you find this helpful
 Give it a ⭐ and feel free to fork it — start your own leetcode-grind!
