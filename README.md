@@ -108,3 +108,11 @@ Give it a ⭐ and feel free to fork it — start your own leetcode-grind!
 This repository is licensed under the MIT License.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Dynamic Programming
+|  |
+| ------- |
+| [0806-domino-and-tromino-tiling](https://github.com/Aadya2901/leetcode-grind/tree/master/0806-domino-and-tromino-tiling) |
+<!---LeetCode Topics End-->
