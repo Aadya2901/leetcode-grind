@@ -115,6 +115,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/Aadya2901/leetcode-grind/tree/master/0806-domino-and-tromino-tiling) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Aadya2901/leetcode-grind/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## String
 |  |
 | ------- |
@@ -139,4 +140,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aadya2901/leetcode-grind/tree/master/0001-two-sum) |
+## Memoization
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Aadya2901/leetcode-grind/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
