@@ -120,6 +120,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Aadya2901/leetcode-grind/tree/master/0316-remove-duplicate-letters) |
+| [3396-valid-word](https://github.com/Aadya2901/leetcode-grind/tree/master/3396-valid-word) |
 ## Stack
 |  |
 | ------- |
