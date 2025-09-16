@@ -131,6 +131,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Aadya2901/leetcode-grind/tree/master/0316-remove-duplicate-letters) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -148,6 +149,7 @@ This repository is licensed under the MIT License.
 | [0037-sudoku-solver](https://github.com/Aadya2901/leetcode-grind/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/Aadya2901/leetcode-grind/tree/master/0118-pascals-triangle) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Aadya2901/leetcode-grind/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
@@ -187,6 +189,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1448-maximum-69-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -195,4 +198,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Aadya2901/leetcode-grind/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
