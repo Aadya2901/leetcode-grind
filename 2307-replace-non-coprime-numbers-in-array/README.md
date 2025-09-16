@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/replace-non-coprime-numbers-in-array">Replace Non-Coprime Numbers in Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given an array of integers <code>nums</code>. Perform the following steps:</p>
+<h2><a href="https://leetcode.com/problems/replace-non-coprime-numbers-in-array">2307. Replace Non-Coprime Numbers in Array</a></h2><h3>Hard</h3><hr><p>You are given an array of integers <code>nums</code>. Perform the following steps:</p>
 
 <ol>
 	<li>Find <strong>any</strong> two <strong>adjacent</strong> numbers in <code>nums</code> that are <strong>non-coprime</strong>.</li>
