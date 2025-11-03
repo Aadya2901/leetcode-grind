@@ -155,6 +155,7 @@ This repository is licensed under the MIT License.
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Aadya2901/leetcode-grind/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
 |  |
@@ -163,6 +164,7 @@ This repository is licensed under the MIT License.
 | [0037-sudoku-solver](https://github.com/Aadya2901/leetcode-grind/tree/master/0037-sudoku-solver) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Aadya2901/leetcode-grind/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3678-design-task-manager](https://github.com/Aadya2901/leetcode-grind/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Aadya2901/leetcode-grind/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Memoization
@@ -219,4 +221,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/Aadya2901/leetcode-grind/tree/master/3678-design-task-manager) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
