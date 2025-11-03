@@ -116,6 +116,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0118-pascals-triangle](https://github.com/Aadya2901/leetcode-grind/tree/master/0118-pascals-triangle) |
 | [0806-domino-and-tromino-tiling](https://github.com/Aadya2901/leetcode-grind/tree/master/0806-domino-and-tromino-tiling) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Aadya2901/leetcode-grind/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Aadya2901/leetcode-grind/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String
@@ -123,6 +124,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Aadya2901/leetcode-grind/tree/master/0316-remove-duplicate-letters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Aadya2901/leetcode-grind/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Aadya2901/leetcode-grind/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/Aadya2901/leetcode-grind/tree/master/3396-valid-word) |
@@ -137,6 +139,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Aadya2901/leetcode-grind/tree/master/0316-remove-duplicate-letters) |
 | [1448-maximum-69-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1448-maximum-69-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Monotonic Stack
 |  |
@@ -148,6 +151,7 @@ This repository is licensed under the MIT License.
 | [0001-two-sum](https://github.com/Aadya2901/leetcode-grind/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Aadya2901/leetcode-grind/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/Aadya2901/leetcode-grind/tree/master/0118-pascals-triangle) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
