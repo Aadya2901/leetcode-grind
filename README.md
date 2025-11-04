@@ -156,6 +156,7 @@ This repository is licensed under the MIT License.
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aadya2901/leetcode-grind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Aadya2901/leetcode-grind/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
 |  |
@@ -165,6 +166,7 @@ This repository is licensed under the MIT License.
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Aadya2901/leetcode-grind/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aadya2901/leetcode-grind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Aadya2901/leetcode-grind/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Aadya2901/leetcode-grind/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Memoization
@@ -216,6 +218,7 @@ This repository is licensed under the MIT License.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aadya2901/leetcode-grind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Aadya2901/leetcode-grind/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
@@ -225,4 +228,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aadya2901/leetcode-grind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
