@@ -130,6 +130,7 @@ This repository is licensed under the MIT License.
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Aadya2901/leetcode-grind/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/Aadya2901/leetcode-grind/tree/master/3396-valid-word) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Aadya2901/leetcode-grind/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Aadya2901/leetcode-grind/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -234,5 +235,10 @@ This repository is licensed under the MIT License.
 ## Sliding Window
 |  |
 | ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Aadya2901/leetcode-grind/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aadya2901/leetcode-grind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Aadya2901/leetcode-grind/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
