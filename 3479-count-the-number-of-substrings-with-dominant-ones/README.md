@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones">Count the Number of Substrings With Dominant Ones</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a binary string <code>s</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones">3479. Count the Number of Substrings With Dominant Ones</a></h2><h3>Medium</h3><hr><p>You are given a binary string <code>s</code>.</p>
 
 <p>Return the number of <span data-keyword="substring-nonempty">substrings</span> with <strong>dominant</strong> ones.</p>
 
