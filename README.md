@@ -123,6 +123,7 @@ This repository is licensed under the MIT License.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aadya2901/leetcode-grind/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Aadya2901/leetcode-grind/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/Aadya2901/leetcode-grind/tree/master/0474-ones-and-zeroes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Aadya2901/leetcode-grind/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -135,6 +136,7 @@ This repository is licensed under the MIT License.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aadya2901/leetcode-grind/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Aadya2901/leetcode-grind/tree/master/0316-remove-duplicate-letters) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Greedy
