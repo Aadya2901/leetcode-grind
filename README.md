@@ -154,6 +154,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aadya2901/leetcode-grind/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Aadya2901/leetcode-grind/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/Aadya2901/leetcode-grind/tree/master/0118-pascals-triangle) |
 | [0474-ones-and-zeroes](https://github.com/Aadya2901/leetcode-grind/tree/master/0474-ones-and-zeroes) |
@@ -183,6 +184,7 @@ This repository is licensed under the MIT License.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
