@@ -116,6 +116,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0118-pascals-triangle](https://github.com/Aadya2901/leetcode-grind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadya2901/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0474-ones-and-zeroes](https://github.com/Aadya2901/leetcode-grind/tree/master/0474-ones-and-zeroes) |
 | [0806-domino-and-tromino-tiling](https://github.com/Aadya2901/leetcode-grind/tree/master/0806-domino-and-tromino-tiling) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -143,6 +144,7 @@ This repository is licensed under the MIT License.
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Aadya2901/leetcode-grind/tree/master/0316-remove-duplicate-letters) |
 | [1448-maximum-69-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -160,6 +162,7 @@ This repository is licensed under the MIT License.
 | [0037-sudoku-solver](https://github.com/Aadya2901/leetcode-grind/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/Aadya2901/leetcode-grind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadya2901/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0474-ones-and-zeroes](https://github.com/Aadya2901/leetcode-grind/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
