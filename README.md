@@ -172,6 +172,7 @@ This repository is licensed under the MIT License.
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2625-increment-submatrices-by-one](https://github.com/Aadya2901/leetcode-grind/tree/master/2625-increment-submatrices-by-one) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Aadya2901/leetcode-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aadya2901/leetcode-grind/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aadya2901/leetcode-grind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -225,6 +226,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [1448-maximum-69-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1448-maximum-69-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Aadya2901/leetcode-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aadya2901/leetcode-grind/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Backtracking
 |  |
@@ -268,6 +270,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/Aadya2901/leetcode-grind/tree/master/2625-increment-submatrices-by-one) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Aadya2901/leetcode-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
