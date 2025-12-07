@@ -227,6 +227,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0066-plus-one](https://github.com/Aadya2901/leetcode-grind/tree/master/0066-plus-one) |
 | [1448-maximum-69-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1448-maximum-69-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aadya2901/leetcode-grind/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aadya2901/leetcode-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aadya2901/leetcode-grind/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
