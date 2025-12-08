@@ -160,6 +160,7 @@ This repository is licensed under the MIT License.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aadya2901/leetcode-grind/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Aadya2901/leetcode-grind/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Aadya2901/leetcode-grind/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aadya2901/leetcode-grind/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Aadya2901/leetcode-grind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadya2901/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -220,11 +221,13 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aadya2901/leetcode-grind/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Aadya2901/leetcode-grind/tree/master/0048-rotate-image) |
 | [2625-increment-submatrices-by-one](https://github.com/Aadya2901/leetcode-grind/tree/master/2625-increment-submatrices-by-one) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Aadya2901/leetcode-grind/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aadya2901/leetcode-grind/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aadya2901/leetcode-grind/tree/master/0066-plus-one) |
 | [1448-maximum-69-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aadya2901/leetcode-grind/tree/master/1523-count-odd-numbers-in-an-interval-range) |
