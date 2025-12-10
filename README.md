@@ -245,6 +245,7 @@ This repository is licensed under the MIT License.
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aadya2901/leetcode-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aadya2901/leetcode-grind/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aadya2901/leetcode-grind/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Backtracking
 |  |
 | ------- |
