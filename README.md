@@ -171,6 +171,7 @@ This repository is licensed under the MIT License.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Aadya2901/leetcode-grind/tree/master/0474-ones-and-zeroes) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -190,6 +191,7 @@ This repository is licensed under the MIT License.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Aadya2901/leetcode-grind/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aadya2901/leetcode-grind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -213,6 +215,7 @@ This repository is licensed under the MIT License.
 | [0015-3sum](https://github.com/Aadya2901/leetcode-grind/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Aadya2901/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Trie
 |  |
@@ -290,4 +293,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aadya2901/leetcode-grind/tree/master/0136-single-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
