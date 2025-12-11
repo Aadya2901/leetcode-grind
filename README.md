@@ -160,6 +160,7 @@ This repository is licensed under the MIT License.
 | [0015-3sum](https://github.com/Aadya2901/leetcode-grind/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aadya2901/leetcode-grind/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Aadya2901/leetcode-grind/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Aadya2901/leetcode-grind/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aadya2901/leetcode-grind/tree/master/0066-plus-one) |
@@ -292,6 +293,7 @@ This repository is licensed under the MIT License.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Aadya2901/leetcode-grind/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Bit Manipulation
