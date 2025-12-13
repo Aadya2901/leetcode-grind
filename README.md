@@ -146,6 +146,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Aadya2901/leetcode-grind/tree/master/0316-remove-duplicate-letters) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Aadya2901/leetcode-grind/tree/master/1338-reduce-array-size-to-the-half) |
 | [1448-maximum-69-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -172,6 +173,7 @@ This repository is licensed under the MIT License.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Aadya2901/leetcode-grind/tree/master/0474-ones-and-zeroes) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Aadya2901/leetcode-grind/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Aadya2901/leetcode-grind/tree/master/1470-shuffle-the-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -194,6 +196,7 @@ This repository is licensed under the MIT License.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Aadya2901/leetcode-grind/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Aadya2901/leetcode-grind/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -218,6 +221,7 @@ This repository is licensed under the MIT License.
 | [0015-3sum](https://github.com/Aadya2901/leetcode-grind/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Aadya2901/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Aadya2901/leetcode-grind/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Aadya2901/leetcode-grind/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -266,6 +270,7 @@ This repository is licensed under the MIT License.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1338-reduce-array-size-to-the-half](https://github.com/Aadya2901/leetcode-grind/tree/master/1338-reduce-array-size-to-the-half) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aadya2901/leetcode-grind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Aadya2901/leetcode-grind/tree/master/3678-design-task-manager) |
 ## Ordered Set
