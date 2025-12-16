@@ -214,6 +214,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aadya2901/leetcode-grind/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aadya2901/leetcode-grind/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aadya2901/leetcode-grind/tree/master/0027-remove-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -284,6 +285,7 @@ This repository is licensed under the MIT License.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aadya2901/leetcode-grind/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
