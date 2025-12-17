@@ -286,6 +286,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aadya2901/leetcode-grind/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Aadya2901/leetcode-grind/tree/master/0021-merge-two-sorted-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
@@ -323,4 +324,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Aadya2901/leetcode-grind/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aadya2901/leetcode-grind/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
