@@ -140,6 +140,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aadya2901/leetcode-grind/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Aadya2901/leetcode-grind/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Aadya2901/leetcode-grind/tree/master/0316-remove-duplicate-letters) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Greedy
@@ -217,6 +218,7 @@ This repository is licensed under the MIT License.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aadya2901/leetcode-grind/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aadya2901/leetcode-grind/tree/master/0027-remove-element) |
+| [0234-palindrome-linked-list](https://github.com/Aadya2901/leetcode-grind/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -287,6 +289,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aadya2901/leetcode-grind/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Aadya2901/leetcode-grind/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Aadya2901/leetcode-grind/tree/master/0234-palindrome-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
@@ -328,4 +331,5 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aadya2901/leetcode-grind/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Aadya2901/leetcode-grind/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
