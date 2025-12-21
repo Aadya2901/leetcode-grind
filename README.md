@@ -118,6 +118,7 @@ This repository is licensed under the MIT License.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadya2901/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0474-ones-and-zeroes](https://github.com/Aadya2901/leetcode-grind/tree/master/0474-ones-and-zeroes) |
+| [0509-fibonacci-number](https://github.com/Aadya2901/leetcode-grind/tree/master/0509-fibonacci-number) |
 | [0806-domino-and-tromino-tiling](https://github.com/Aadya2901/leetcode-grind/tree/master/0806-domino-and-tromino-tiling) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Aadya2901/leetcode-grind/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -216,6 +217,7 @@ This repository is licensed under the MIT License.
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Aadya2901/leetcode-grind/tree/master/0509-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Aadya2901/leetcode-grind/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Two Pointers
 |  |
@@ -260,6 +262,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0048-rotate-image](https://github.com/Aadya2901/leetcode-grind/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aadya2901/leetcode-grind/tree/master/0066-plus-one) |
+| [0509-fibonacci-number](https://github.com/Aadya2901/leetcode-grind/tree/master/0509-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aadya2901/leetcode-grind/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -342,6 +345,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aadya2901/leetcode-grind/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Aadya2901/leetcode-grind/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Aadya2901/leetcode-grind/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
