@@ -126,6 +126,7 @@ This repository is licensed under the MIT License.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aadya2901/leetcode-grind/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aadya2901/leetcode-grind/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Aadya2901/leetcode-grind/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/Aadya2901/leetcode-grind/tree/master/0474-ones-and-zeroes) |
@@ -161,6 +162,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aadya2901/leetcode-grind/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Aadya2901/leetcode-grind/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Aadya2901/leetcode-grind/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aadya2901/leetcode-grind/tree/master/0027-remove-element) |
@@ -240,6 +242,7 @@ This repository is licensed under the MIT License.
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aadya2901/leetcode-grind/tree/master/0014-longest-common-prefix) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Hash Function
 |  |
