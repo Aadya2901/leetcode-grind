@@ -120,6 +120,7 @@ This repository is licensed under the MIT License.
 | [0474-ones-and-zeroes](https://github.com/Aadya2901/leetcode-grind/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/Aadya2901/leetcode-grind/tree/master/0509-fibonacci-number) |
 | [0806-domino-and-tromino-tiling](https://github.com/Aadya2901/leetcode-grind/tree/master/0806-domino-and-tromino-tiling) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Aadya2901/leetcode-grind/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Aadya2901/leetcode-grind/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aadya2901/leetcode-grind/tree/master/2054-two-best-non-overlapping-events) |
@@ -132,6 +133,7 @@ This repository is licensed under the MIT License.
 | [0020-valid-parentheses](https://github.com/Aadya2901/leetcode-grind/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Aadya2901/leetcode-grind/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/Aadya2901/leetcode-grind/tree/master/0474-ones-and-zeroes) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Aadya2901/leetcode-grind/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Aadya2901/leetcode-grind/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -181,6 +183,7 @@ This repository is licensed under the MIT License.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Aadya2901/leetcode-grind/tree/master/0474-ones-and-zeroes) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Aadya2901/leetcode-grind/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aadya2901/leetcode-grind/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Aadya2901/leetcode-grind/tree/master/1470-shuffle-the-array) |
