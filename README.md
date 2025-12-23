@@ -122,6 +122,7 @@ This repository is licensed under the MIT License.
 | [0806-domino-and-tromino-tiling](https://github.com/Aadya2901/leetcode-grind/tree/master/0806-domino-and-tromino-tiling) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Aadya2901/leetcode-grind/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2054-two-best-non-overlapping-events](https://github.com/Aadya2901/leetcode-grind/tree/master/2054-two-best-non-overlapping-events) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Aadya2901/leetcode-grind/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Aadya2901/leetcode-grind/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String
@@ -184,6 +185,7 @@ This repository is licensed under the MIT License.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Aadya2901/leetcode-grind/tree/master/1470-shuffle-the-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2054-two-best-non-overlapping-events](https://github.com/Aadya2901/leetcode-grind/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -238,6 +240,7 @@ This repository is licensed under the MIT License.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aadya2901/leetcode-grind/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2054-two-best-non-overlapping-events](https://github.com/Aadya2901/leetcode-grind/tree/master/2054-two-best-non-overlapping-events) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3606-coupon-code-validator](https://github.com/Aadya2901/leetcode-grind/tree/master/3606-coupon-code-validator) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Aadya2901/leetcode-grind/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -289,6 +292,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aadya2901/leetcode-grind/tree/master/1338-reduce-array-size-to-the-half) |
+| [2054-two-best-non-overlapping-events](https://github.com/Aadya2901/leetcode-grind/tree/master/2054-two-best-non-overlapping-events) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aadya2901/leetcode-grind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Aadya2901/leetcode-grind/tree/master/3678-design-task-manager) |
 ## Ordered Set
@@ -322,6 +326,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/Aadya2901/leetcode-grind/tree/master/2054-two-best-non-overlapping-events) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Aadya2901/leetcode-grind/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Bit Manipulation
 |  |
