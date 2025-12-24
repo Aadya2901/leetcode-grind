@@ -158,6 +158,7 @@ This repository is licensed under the MIT License.
 | [1448-maximum-69-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Aadya2901/leetcode-grind/tree/master/3074-apple-redistribution-into-boxes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -193,6 +194,7 @@ This repository is licensed under the MIT License.
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2625-increment-submatrices-by-one](https://github.com/Aadya2901/leetcode-grind/tree/master/2625-increment-submatrices-by-one) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Aadya2901/leetcode-grind/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aadya2901/leetcode-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aadya2901/leetcode-grind/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -245,6 +247,7 @@ This repository is licensed under the MIT License.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aadya2901/leetcode-grind/tree/master/2054-two-best-non-overlapping-events) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Aadya2901/leetcode-grind/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/Aadya2901/leetcode-grind/tree/master/3606-coupon-code-validator) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Aadya2901/leetcode-grind/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Trie
