@@ -114,6 +114,7 @@ This repository is licensed under the MIT License.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aadya2901/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Aadya2901/leetcode-grind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadya2901/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -174,6 +175,7 @@ This repository is licensed under the MIT License.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Aadya2901/leetcode-grind/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Aadya2901/leetcode-grind/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Aadya2901/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aadya2901/leetcode-grind/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aadya2901/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Aadya2901/leetcode-grind/tree/master/0118-pascals-triangle) |
@@ -345,6 +347,7 @@ This repository is licensed under the MIT License.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aadya2901/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aadya2901/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Aadya2901/leetcode-grind/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Quickselect
