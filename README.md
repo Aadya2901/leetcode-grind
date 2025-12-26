@@ -139,6 +139,7 @@ This repository is licensed under the MIT License.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Aadya2901/leetcode-grind/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Aadya2901/leetcode-grind/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3396-valid-word](https://github.com/Aadya2901/leetcode-grind/tree/master/3396-valid-word) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Aadya2901/leetcode-grind/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3606-coupon-code-validator](https://github.com/Aadya2901/leetcode-grind/tree/master/3606-coupon-code-validator) |
@@ -327,6 +328,7 @@ This repository is licensed under the MIT License.
 ## Prefix Sum
 |  |
 | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Aadya2901/leetcode-grind/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/Aadya2901/leetcode-grind/tree/master/2625-increment-submatrices-by-one) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aadya2901/leetcode-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
