@@ -149,6 +149,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aadya2901/leetcode-grind/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aadya2901/leetcode-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Aadya2901/leetcode-grind/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Aadya2901/leetcode-grind/tree/master/0316-remove-duplicate-letters) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -184,6 +185,7 @@ This repository is licensed under the MIT License.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadya2901/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Aadya2901/leetcode-grind/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aadya2901/leetcode-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Aadya2901/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -280,6 +282,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0048-rotate-image](https://github.com/Aadya2901/leetcode-grind/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aadya2901/leetcode-grind/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aadya2901/leetcode-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Aadya2901/leetcode-grind/tree/master/0509-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aadya2901/leetcode-grind/tree/master/1523-count-odd-numbers-in-an-interval-range) |
