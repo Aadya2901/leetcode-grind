@@ -122,6 +122,7 @@ This repository is licensed under the MIT License.
 | [0509-fibonacci-number](https://github.com/Aadya2901/leetcode-grind/tree/master/0509-fibonacci-number) |
 | [0806-domino-and-tromino-tiling](https://github.com/Aadya2901/leetcode-grind/tree/master/0806-domino-and-tromino-tiling) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Aadya2901/leetcode-grind/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Aadya2901/leetcode-grind/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Aadya2901/leetcode-grind/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aadya2901/leetcode-grind/tree/master/2054-two-best-non-overlapping-events) |
