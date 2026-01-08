@@ -123,6 +123,7 @@ This repository is licensed under the MIT License.
 | [0806-domino-and-tromino-tiling](https://github.com/Aadya2901/leetcode-grind/tree/master/0806-domino-and-tromino-tiling) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Aadya2901/leetcode-grind/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Aadya2901/leetcode-grind/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Aadya2901/leetcode-grind/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Aadya2901/leetcode-grind/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aadya2901/leetcode-grind/tree/master/2054-two-best-non-overlapping-events) |
@@ -194,6 +195,7 @@ This repository is licensed under the MIT License.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aadya2901/leetcode-grind/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Aadya2901/leetcode-grind/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/Aadya2901/leetcode-grind/tree/master/1470-shuffle-the-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aadya2901/leetcode-grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aadya2901/leetcode-grind/tree/master/2054-two-best-non-overlapping-events) |
