@@ -204,6 +204,7 @@ This repository is licensed under the MIT License.
 | [2402-meeting-rooms-iii](https://github.com/Aadya2901/leetcode-grind/tree/master/2402-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aadya2901/leetcode-grind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2625-increment-submatrices-by-one](https://github.com/Aadya2901/leetcode-grind/tree/master/2625-increment-submatrices-by-one) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Aadya2901/leetcode-grind/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Aadya2901/leetcode-grind/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aadya2901/leetcode-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -228,6 +229,7 @@ This repository is licensed under the MIT License.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadya2901/leetcode-grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Aadya2901/leetcode-grind/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2402-meeting-rooms-iii](https://github.com/Aadya2901/leetcode-grind/tree/master/2402-meeting-rooms-iii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Aadya2901/leetcode-grind/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aadya2901/leetcode-grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3606-coupon-code-validator](https://github.com/Aadya2901/leetcode-grind/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aadya2901/leetcode-grind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -336,6 +338,7 @@ This repository is licensed under the MIT License.
 ## Enumeration
 |  |
 | ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Aadya2901/leetcode-grind/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Aadya2901/leetcode-grind/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Prefix Sum
 |  |
