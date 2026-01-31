@@ -191,6 +191,7 @@ This repository is licensed under the MIT License.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Aadya2901/leetcode-grind/tree/master/0474-ones-and-zeroes) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Aadya2901/leetcode-grind/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Aadya2901/leetcode-grind/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/Aadya2901/leetcode-grind/tree/master/1200-minimum-absolute-difference) |
@@ -356,6 +357,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Aadya2901/leetcode-grind/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Aadya2901/leetcode-grind/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aadya2901/leetcode-grind/tree/master/2054-two-best-non-overlapping-events) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Aadya2901/leetcode-grind/tree/master/3759-count-elements-with-at-least-k-greater-values) |
