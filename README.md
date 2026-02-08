@@ -392,6 +392,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aadya2901/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Aadya2901/leetcode-grind/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -400,8 +401,13 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aadya2901/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Aadya2901/leetcode-grind/tree/master/0110-balanced-binary-tree) |
 ## Simulation
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/Aadya2901/leetcode-grind/tree/master/2402-meeting-rooms-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Aadya2901/leetcode-grind/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
