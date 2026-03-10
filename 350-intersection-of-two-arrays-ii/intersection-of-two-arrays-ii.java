@@ -3,27 +3,32 @@ import java.util.*;
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
 
-        HashMap<Integer,Integer> map = new HashMap<>();
+        Arrays.sort(nums1);
+        Arrays.sort(nums2);
 
-        // count frequency of nums1
-        for(int num : nums1){
-            map.put(num, map.getOrDefault(num,0)+1);
-        }
+        int i = 0;
+        int j = 0;
 
         ArrayList<Integer> list = new ArrayList<>();
 
-        // check nums2
-        for(int num : nums2){
-            if(map.containsKey(num) && map.get(num) > 0){
-                list.add(num);
-                map.put(num, map.get(num)-1);
+        while(i < nums1.length && j < nums2.length){
+
+            if(nums1[i] == nums2[j]){
+                list.add(nums1[i]);
+                i++;
+                j++;
+            }
+            else if(nums1[i] < nums2[j]){
+                i++;
+            }
+            else{
+                j++;
             }
         }
 
-        // convert list to array
         int[] result = new int[list.size()];
-        for(int i=0;i<list.size();i++){
-            result[i] = list.get(i);
+        for(int k=0;k<list.size();k++){
+            result[k] = list.get(k);
         }
 
         return result;
