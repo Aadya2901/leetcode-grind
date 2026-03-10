@@ -1,20 +1,31 @@
+import java.util.*;
+
 class Solution {
-  public int[] intersect(int[] nums1, int[] nums2) {
-    if (nums1.length > nums2.length)
-      return intersect(nums2, nums1);
+    public int[] intersect(int[] nums1, int[] nums2) {
 
-    List<Integer> ans = new ArrayList<>();
-    Map<Integer, Integer> count = new HashMap<>();
+        HashMap<Integer,Integer> map = new HashMap<>();
 
-    for (final int num : nums1)
-      count.put(num, count.getOrDefault(num, 0) + 1);
+        // count frequency of nums1
+        for(int num : nums1){
+            map.put(num, map.getOrDefault(num,0)+1);
+        }
 
-    for (final int num : nums2)
-      if (count.containsKey(num) && count.get(num) > 0) {
-        ans.add(num);
-        count.put(num, count.get(num) - 1);
-      }
+        ArrayList<Integer> list = new ArrayList<>();
 
-    return ans.stream().mapToInt(Integer::intValue).toArray();
-  }
+        // check nums2
+        for(int num : nums2){
+            if(map.containsKey(num) && map.get(num) > 0){
+                list.add(num);
+                map.put(num, map.get(num)-1);
+            }
+        }
+
+        // convert list to array
+        int[] result = new int[list.size()];
+        for(int i=0;i<list.size();i++){
+            result[i] = list.get(i);
+        }
+
+        return result;
+    }
 }
