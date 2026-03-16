@@ -187,6 +187,7 @@ This repository is licensed under the MIT License.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Aadya2901/leetcode-grind/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aadya2901/leetcode-grind/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Aadya2901/leetcode-grind/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Aadya2901/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -362,6 +363,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aadya2901/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Aadya2901/leetcode-grind/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Aadya2901/leetcode-grind/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadya2901/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Aadya2901/leetcode-grind/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aadya2901/leetcode-grind/tree/master/0744-find-smallest-letter-greater-than-target) |
