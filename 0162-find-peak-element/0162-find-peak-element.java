@@ -1,18 +1,18 @@
 class Solution {
     public int findPeakElement(int[] nums) {
-        int left = 0;
-        int right = nums.length - 1;
 
-        while(left < right){
-            int mid = (left + right) / 2;
+        int low = 0;
+        int high = nums.length - 1;
 
-            if(nums[mid] < nums[mid + 1]){
-                left = mid + 1;
-            } else {
-                right = mid;
-            }
+        while(low < high){
+            int mid = (low + high) / 2;
+
+            if(nums[mid] < nums[mid+1])
+                low = mid + 1;
+            else
+                high = mid;
         }
 
-        return left;
+        return low;
     }
 }
