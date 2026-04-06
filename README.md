@@ -180,6 +180,7 @@ This repository is licensed under the MIT License.
 | [0037-sudoku-solver](https://github.com/Aadya2901/leetcode-grind/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Aadya2901/leetcode-grind/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aadya2901/leetcode-grind/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Aadya2901/leetcode-grind/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aadya2901/leetcode-grind/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aadya2901/leetcode-grind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Aadya2901/leetcode-grind/tree/master/0118-pascals-triangle) |
@@ -286,6 +287,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aadya2901/leetcode-grind/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Aadya2901/leetcode-grind/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Aadya2901/leetcode-grind/tree/master/0054-spiral-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Aadya2901/leetcode-grind/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2625-increment-submatrices-by-one](https://github.com/Aadya2901/leetcode-grind/tree/master/2625-increment-submatrices-by-one) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Aadya2901/leetcode-grind/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -411,6 +413,7 @@ This repository is licensed under the MIT License.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aadya2901/leetcode-grind/tree/master/0054-spiral-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/Aadya2901/leetcode-grind/tree/master/2402-meeting-rooms-iii) |
 ## Depth-First Search
 |  |
